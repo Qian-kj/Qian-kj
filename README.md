@@ -17,6 +17,9 @@
 <!--     <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/> -->
 <!--     <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/> -->
+    <img src="https://cultofthepartyparrot.com/parrots/icecreamparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/dabparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/krakenparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
